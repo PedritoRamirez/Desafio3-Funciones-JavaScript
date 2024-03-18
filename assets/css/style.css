@@ -1,0 +1,35 @@
+
+/* *********************pregunta 3 del desafio************* */
+body{
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+}
+
+#caja1{
+  height: 200px;
+  width: 200px;
+  border: 3px solid blue;
+  background-color: blue; 
+}
+#caja2{
+  margin-left: 30px;
+  height: 200px;
+  width: 200px;
+  border: 3px solid red;
+  background-color: red; 
+}
+#caja3{
+  margin-left: 30px;
+  height: 200px;
+  width: 200px;
+  border: 3px solid green;
+  background-color: green; 
+}
+#caja4{
+  margin-left: 30px;
+  height: 200px;
+  width: 200px;
+  border: 3px solid yellow;
+  background-color: yellow; 
+}
